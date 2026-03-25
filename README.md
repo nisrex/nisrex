@@ -24,9 +24,6 @@ I am **nisrex**, a student navigating the intricate layers of machine learning, 
 ### ⚙️ Current Execution Threads
 
 * **`[Process ID: 01]`** Structuring neural pathways and exploring data architectures using `Python`, `NumPy`, and `Pandas` within an isolated `Conda` environment.
-* **`[Process ID: 02]`** Constructing a high-performance, frontend matrix (portfolio) leveraging `Next.js`, `Tailwind CSS`, and `Sanity CMS`, deployed seamlessly via `Vercel`.
-* **`[Process ID: 03]`** Compiling a centralized knowledge graph—setting up a complex `Obsidian` vault to serve as my primary learning dashboard and second brain.
-* **`[Process ID: 04]`** Operating and optimizing within a `Zorin OS` (Linux) environment, mastering the command line and system internals.
 
 ---
 

@@ -1,65 +1,62 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_INITIALIZING_SYSTEM...;%3E_HELLO_WORLD.;%3E_I+AM+NISREX.;%3E_DECODING_THE_COMPLEXITIES_OF_MACHINES..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=%3E_RESEARCH_ENVIRONMENT_ACTIVE...;%3E_IDENTITY%3A+NISREX;%3E_FOCUS%3A+AI+%2F+MACHINE_LEARNING_RESEARCH;%3E_EXPLORING_NEXT-GEN_INTELLIGENCE..." alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/nisrex">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF00?style=for-the-badge&logo=probot&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-00FF66?style=for-the-badge&logo=probot&logoColor=black" alt="Status" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/CLEARANCE-LEARNER-blue?style=for-the-badge&logo=passport&logoColor=white" alt="Clearance" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-007ACC?style=for-the-badge&logo=themodelsresource&logoColor=white" alt="Focus" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/PARADIGM-NEURAL%20ARCHITECTURES-8A2BE2?style=for-the-badge&logo=deepnote&logoColor=white" alt="Paradigm" />
 </a>
 
 </div>
 
 ---
 
-### `terminal@nisrex:~$ ./core_dump.sh`
+### `terminal@nisrex:~$ ./core_manifesto.sh`
 
-> **`SYSTEM LOG:`** "Mapping the architecture of intelligence, one node at a time."
+> **`RESEARCH NOTE:`** *"Scaling compute has revealed the contours of intelligence; overcoming its bottlenecks demands novel inductive biases."*
 
-I am **nisrex**, a student navigating the intricate layers of machine learning, data science, and systems architecture. I approach computing not just as a tool, but as a complex ecosystem to be understood, optimized, and pushed to its limits.
-
-### ⚙️ Current Execution Threads
-
-* **`[Process ID: 01]`** Structuring neural pathways and exploring data architectures using `Python`, `NumPy`, and `Pandas` within an isolated `Conda` environment.
+I am **nisrex**, an independent AI/ML researcher investigating representations, neural reasoning dynamics, and foundation architectures. My work centers on empirical evaluation, reproducible experiments, and designing systems that push beyond current architectural plateaus.
 
 ---
 
-### 💻 Technology Stack Diagnostics
+### 🔬 Core Research Vectors
 
-<details>
-<summary><b>[+] INITIALIZE_MODULE( "LANGUAGES_&_FRAMEWORKS" )</b></summary>
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-</details>
+- **`[Vector 01: Reasoning & Beyond-Transformer Architectures]`**  
+  Investigating fundamental scaling limits, mechanistic interpretability, and neuro-symbolic / alternative paradigms designed to overcome autoregressive bottlenecks.
 
-<details>
-<summary><b>[+] INITIALIZE_MODULE( "TOOLS_&_ENVIRONMENT" )</b></summary>
-<br/>
+- **`[Vector 02: Representation & Efficiency]`**  
+  Exploring sparse attention mechanisms, tree-based inductive biases, and structural graph representations to optimize sample and inference efficiency.
+
+- **`[Vector 03: First-Principles ML Implementations]`**  
+  Constructing core learning algorithms, autograd engines, and optimization routines from scratch to verify theoretical intuition.
+
+---
+
+### 🛠️ Computational Toolkit & Frameworks
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Zorin_OS-2CA0C6?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Conda" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Sanity-F36458?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity" />
-  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
-</details>
 
 ---
 
-### 📊 Telemetry Data
+### 📊 Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisrex&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisrex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisrex&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
@@ -73,8 +70,7 @@ I am **nisrex**, a student navigating the intricate layers of machine learning, 
 </div>
 
 ---
-<div align="center">
-  <samp>Connection Terminated.</samp>
-</div>
 
-<h3 align="center"><font color="red">finally i am here</font></h3>
+<div align="center">
+  <samp>In data and gradients we trust. All hypotheses must be falsifiable.</samp>
+</div>
